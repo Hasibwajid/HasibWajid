@@ -21,7 +21,7 @@
 ### About Me:
 - 🌱 I specialize in **Machine Learning, Deep Learning, NLP**, and the cutting-edge field of **Large Language Models (LLMs)**.
 - 👯 Actively seeking collaborations with researchers and organizations to build advanced AI solutions and enhance existing technologies.
-- 🥅 **2024 Goals:** Delve deeper into **Langchain**, **RAG**, and other AI innovations.
+- 🥅 **2025 Goals:** Delve deeper into **Langchain**, **RAG**, and other AI innovations.
 - ⚡ Always eager to stay ahead in the field with the latest developments and trends.
 - 📖 Currently pursuing a **Bachelor's in Computer Science** from **COMSATS University** in **Pakistan**.
 
