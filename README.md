@@ -32,9 +32,15 @@
   
 ### 📈 Stats:
 <details>
-<summary>My GitHub Stats</summary>
+<summary>📈 Stats</summary>
 <br>
+My Github Stats
+<br>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasibwajid&theme=aura) 
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasibwajid&theme=aura) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasibwajid&theme=aura)
+
 </details>
+
