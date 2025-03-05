@@ -19,48 +19,49 @@
 </p>
 
 ### 🚀 About Me:
-- 🎓 **Computer Science Graduate** specializing in **Machine Learning, Deep Learning, and NLP**
-- 🤖 Building **agentic AI systems** with advanced RAG architectures using Pinecone/ChromaDB
-- 💡 Creating intelligent solutions: Custom chatbots, autonomous agents, and data-driven insights
-- 🥅 **2025 Focus:** Pioneering **Langchain implementations** and scalable agentic RAG systems
-- ⚡ Passionate about bridging AI research with production-ready applications
+- 🎓 **Computer Science Graduate** specializing in **AI/ML & Full-Stack Development**
+- 🤖 Building **production-grade AI systems**: Chatbots, LLMs, Agentic AI with RAG architectures
+- 📱 **Full-Stack Expert**: Develop cross-platform apps with React Native & robust web solutions using MERN
+- 🛠️ **Tech Integrator**: Combine AI with C#/Java backend systems and modern databases
+- ⚡ Passionate about creating user-friendly AI applications that solve real-world problems
 
 ### 🔧 Technical Arsenal:
+**Full-Stack Development**  
+![MERN](https://img.shields.io/badge/-MERN-61DAFB?logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
+
 **AI/ML Stack**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface)
 
-**Full-Stack Dev**  
-![MERN](https://img.shields.io/badge/-MERN-61DAFB?logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java)
-
-**Data Ecosystem**  
+**Data Infrastructure**  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-47A248?logo=mongodb)
 ![Pinecone](https://img.shields.io/badge/-Pinecone-430098)
 ![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6C37)
 
-**Agent Frameworks**  
+**AI Frameworks**  
 ![LangChain](https://img.shields.io/badge/-LangChain-FF6C37)
 ![phidata](https://img.shields.io/badge/-phidata-6DB33F)
 ![crewAI](https://img.shields.io/badge/-crewAI-00599C)
 
 ### 💼 Core Offerings:
-- **AI Solutions Development**  
-  Custom LLMs • Agentic AI Systems • NLP Pipelines • Predictive Analytics
+- **AI-Powered Applications**  
+  React Native AI Apps • Intelligent Web Portals • Enterprise-grade Chatbots
 
-- **Advanced RAG Architectures**  
-  Pinecone/ChromaDB Implementations • Multi-modal Retrieval • Knowledge Graph Integration
+- **Advanced RAG Systems**  
+  Pinecone/ChromaDB Architectures • Multi-source Retrieval • Self-optimizing Knowledge Bases
 
-- **Intelligent Agent Engineering**  
-  Autonomous Workflows • phidata/crewAI Systems • Self-Improving AI Models
+- **Full-Stack Solutions**  
+  MERN Stack Development • C#/Java Backend Systems • Cloud-Native Deployments
 
-- **Full-Stack AI Applications**  
-  React Native AI Apps • MERN Stack Solutions • Cloud-Deployed ML Systems
+- **Agentic AI Engineering**  
+  Autonomous Workflows • phidata/crewAI Implementations • LLM Orchestration
 
 ### 📈 GitHub Analytics:
 <details>
@@ -74,5 +75,5 @@
 
 </details>
 
-*Let's engineer intelligence that evolves - from conversational AI to autonomous systems that learn.*  
-📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/hasibwajid) | [Email](mailto:haseebwajidpersonal@gmail.com)
+*Bridging AI innovation with production-ready development - From neural networks to native apps.*  
+📫 **Let's Build:** [LinkedIn](https://www.linkedin.com/in/hasibwajid) | [Email](mailto:haseebwajidpersonal@gmail.com)
