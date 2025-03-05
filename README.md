@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/hasibwajid">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=2000&pause=800&color=9745F5&center=true&multiline=true&width=650&height=80&lines=Hasib+Wajid;AI+%26+ML+Engineer+%7C+NLP+Expert+%7C+Full-Stack+Developer+%7C+%2425%2Fhr" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=2000&pause=800&color=9745F5&center=true&multiline=true&width=650&height=80&lines=Hasib+Wajid;AI+%26+ML+Engineer+%7C+NLP+Expert+%7C+Full-Stack+Developer" alt="Typing SVG" />
 </a>
 <br/>
 
