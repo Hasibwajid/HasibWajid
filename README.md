@@ -53,7 +53,7 @@ Though my core focus is AI automation, I also build:
 
 - [LinkedIn](https://www.linkedin.com/in/hasibwajid)  
 - [Email](mailto:haseebwajidpersonal@gmail.com)  
-- [GitHub Projects](https://github.com/haseebwajid)
+- [GitHub Projects](https://github.com/hasibwajid)
 
 ---
 
