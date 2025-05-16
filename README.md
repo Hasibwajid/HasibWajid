@@ -1,47 +1,50 @@
-# Hasib Wajid
+# Haseeb Wajid
 
-**AI Engineer | NLP & Agentic Systems Architect | Automation Specialist**
+**AI Automation Engineer | NLP & Agentic Systems Architect | Workflow Specialist**
 
 ---
 
 ### 🚀 What I Do
 
-I design and build advanced AI automation systems that reduce business workload, streamline decision-making, and unlock scalable operations using LLMs and agentic workflows.
-
-My work focuses on:
-
-- **LLM-based automations** that perform multi-step tasks with minimal human input  
-- **Natural Language Processing (NLP)** for understanding and generating human-like responses  
-- **Autonomous Agents & RAG pipelines** using LangChain, CrewAI, and LangGraph  
-- **Voice & Text Interfaces** using TTS/STT APIs like ElevenLabs, OpenAI Whisper  
-- **AI Infrastructure** integrating memory, context, search, and APIs
+I architect AI-powered automation systems that **reduce business workload**, eliminate repetitive tasks, and enable smarter decision-making using LLMs, no-code tools, and agentic workflows.
 
 ---
 
-### 🧠 Current Focus
+### 🧠 Core Focus
 
-- Architecting agent-based AI systems for real-time automation  
-- Developing LLM tools that handle repetitive cognitive tasks in business workflows  
-- Fine-tuning pipelines for task planning, chaining, and context-aware execution  
-- Building reusable backend frameworks for client-facing AI services  
+- **LLM-Based Automations** for cognitive and multi-step workflows  
+- **Agentic Systems** with LangChain, CrewAI, LangGraph, and function-calling  
+- **NLP & Custom GPTs** for industry-specific use cases and contextual logic  
+- **Voice AI Interfaces** (TTS/STT) with ElevenLabs, Whisper, and OpenAI  
+- **Business Workflow Automation** using `Make.com` and `n8n` for real-world integrations
 
----
-
-### 🛠️ Stack & Tools
-
-| LLMs & Agents | Automation | Backend | Voice AI |
-|---------------|------------|---------|----------|
-| LangChain, LangGraph, CrewAI | Vector DBs, Memory, Chaining | Node.js, Python, FastAPI | ElevenLabs, Whisper, TTS/STT |
-| OpenAI, Claude, Gemini APIs | RAG, Data Injection, Function Calling | MongoDB, Firebase | Contextual Voice Interfaces |
+Whether it's automating sales follow-ups, support triaging, or internal task routing — I build systems that work autonomously.
 
 ---
 
-### ⚙️ Also Experienced In
+### ⚙️ Stack & Tools
 
-While my primary focus is AI automation and agentic systems, I also have a strong background in:
+| AI & Agents | Automations | Backend & Dev | Voice AI |
+|-------------|--------------|---------------|----------|
+| OpenAI, Claude, Gemini | **Make.com**, **n8n**, Zapier | Node.js, Python, FastAPI | ElevenLabs, Whisper |
+| LangChain, LangGraph, CrewAI | RAG Pipelines, Memory, Chaining | Firebase, MongoDB | Speech Interfaces |
 
-- **React Native** – Cross-platform mobile app development  
-- **Web Development** – Full-stack apps using Next.js, Tailwind, and REST APIs  
+---
+
+### 📌 Current Projects
+
+- Agentic systems that trigger Make.com or n8n flows via LLM decision logic  
+- Custom GPTs + autonomous agents that handle support, lead gen, and CRM workflows  
+- Modular automation blueprints for small teams scaling without hiring
+
+---
+
+### 🧰 Also Experienced In
+
+While AI automation is my specialty, I also build:
+
+- **Mobile Apps** using React Native (Expo)  
+- **Full-Stack Web Apps** using Next.js, Tailwind, REST/GraphQL
 
 ---
 
@@ -53,4 +56,4 @@ While my primary focus is AI automation and agentic systems, I also have a stron
 
 ---
 
-> "Automation isn't just about saving time. It's about creating systems that think, decide, and execute — so you can scale without burning out."
+> "The future of work isn’t hiring more people—it’s building smarter systems. I help businesses deploy AI-driven automations that *think*, *act*, and *scale.*"
