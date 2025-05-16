@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/hasibwajid">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=2000&pause=800&color=9745F5&center=true&multiline=true&width=650&height=80&lines=Hasib+Wajid;AI+%26+ML+Engineer+%7C+NLP+Expert+%7C+Full-Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=2000&pause=800&color=9745F5¢er=true&multiline=true&width=650&height=80&lines=Hasib+Wajid;AI+%26+ML+Engineer+%7C+NLP+Expert+%7C+Full-Stack+Developer" alt="Typing SVG" />
 </a>
 <br/>
 
@@ -61,17 +61,17 @@
   MERN Stack Development • C#/Java Backend Systems • Cloud-Native Deployments
 
 - **Agentic AI Engineering**  
-  Autonomous Workflows • phidata/crewAI Implementations • LLM Orchestration
+  Autonomous Workflows • phidata/crewAI Implementations • LLM Orchestration • AI Automation with Make.com, n8n, Zapier, and Apify • Workflow Optimization for Content Production and CRM Integration
 
 ### 📈 GitHub Analytics:
 <details>
 <summary>📊 Deep Dive Stats</summary>
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasibwajid&theme=aura) 
+!
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasibwajid&theme=aura) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasibwajid&theme=aura)
+!
+!
 
 </details>
 
