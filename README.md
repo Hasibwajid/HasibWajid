@@ -1,56 +1,56 @@
 # Hasib Wajid
 
-**Founder & CEO at AxthTech**  
-**AI Engineer | NLP & LLM Specialist | Product Builder**
+**AI Engineer | NLP & Agentic Systems Architect | Automation Specialist**
 
 ---
 
-### 🚀 About Me
+### 🚀 What I Do
 
-I build scalable AI systems that solve real-world problems.  
-From intelligent agents to AI tutors, I architect products that ship—fast and functional.
+I design and build advanced AI automation systems that reduce business workload, streamline decision-making, and unlock scalable operations using LLMs and agentic workflows.
 
-- Founder of [AxthTech](https://axthtech.com) – an AI-focused product and services company  
-- Built [MDCAT.ai](https://mdcat.ai.axthtech.com) – AI-powered exam prep platform for Pakistan  
-- Deep focus on LLMs, NLP, agentic architectures, and AI integration in mobile/web apps  
-- Skilled in React Native, Node.js, Python, LangChain, and RAG pipelines  
-- Strong believer in speed, clarity, and product-led growth  
+My work focuses on:
 
----
-
-### 🛠️ Core Skills
-
-| AI/ML | Product Dev | Stack |
-|------|-------------|--------|
-| LLMs, LangChain, RAG, Agents | End-to-End AI Product Design | React Native, Next.js, Node.js |
-| NLP, Prompt Engineering | MVP to Market Launch | Python, MongoDB, ChromaDB |
-| Eleven Labs, TTS/Whisper | Lean Execution, Agile | Firebase, Pinecone, OpenAI APIs |
+- **LLM-based automations** that perform multi-step tasks with minimal human input  
+- **Natural Language Processing (NLP)** for understanding and generating human-like responses  
+- **Autonomous Agents & RAG pipelines** using LangChain, CrewAI, and LangGraph  
+- **Voice & Text Interfaces** using TTS/STT APIs like ElevenLabs, OpenAI Whisper  
+- **AI Infrastructure** integrating memory, context, search, and APIs
 
 ---
 
-### 🧠 What I Build
+### 🧠 Current Focus
 
-- **MDCAT.ai** – AI-powered learning platform for medical students  
-- **Agentic Systems** – custom autonomous workflows using CrewAI / LangGraph  
-- **Voice Interfaces** – mobile-first AI assistants using TTS/STT (Eleven Labs, Whisper)  
-- **AI as a Service** – packaged AI tools for education, health, finance, and SaaS  
-
----
-
-### 📈 Current Focus
-
-- Scaling MDCAT.ai with subscription model  
-- Building AxthTech's next AI platform under `Aixify`  
-- Client projects in AI automation & edtech agents  
+- Architecting agent-based AI systems for real-time automation  
+- Developing LLM tools that handle repetitive cognitive tasks in business workflows  
+- Fine-tuning pipelines for task planning, chaining, and context-aware execution  
+- Building reusable backend frameworks for client-facing AI services  
 
 ---
 
-### 📬 Connect With Me
+### 🛠️ Stack & Tools
+
+| LLMs & Agents | Automation | Backend | Voice AI |
+|---------------|------------|---------|----------|
+| LangChain, LangGraph, CrewAI | Vector DBs, Memory, Chaining | Node.js, Python, FastAPI | ElevenLabs, Whisper, TTS/STT |
+| OpenAI, Claude, Gemini APIs | RAG, Data Injection, Function Calling | MongoDB, Firebase | Contextual Voice Interfaces |
+
+---
+
+### ⚙️ Also Experienced In
+
+While my primary focus is AI automation and agentic systems, I also have a strong background in:
+
+- **React Native** – Cross-platform mobile app development  
+- **Web Development** – Full-stack apps using Next.js, Tailwind, and REST APIs  
+
+---
+
+### 📬 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/hasibwajid)  
 - [Email](mailto:haseebwajidpersonal@gmail.com)  
-- [Company](https://axthtech.com)
+- [GitHub Projects](https://github.com/haseebwajid)
 
 ---
 
-> "You don’t scale by doing more. You scale by building systems that do more without you."
+> "Automation isn't just about saving time. It's about creating systems that think, decide, and execute — so you can scale without burning out."
