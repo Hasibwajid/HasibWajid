@@ -1,74 +1,76 @@
 <p align="center">
   <a href="https://github.com/hasibwajid">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=2000&pause=800&color=8A2BE2&center=true&multiline=true&width=650&height=80&lines=Hasib+Wajid;AI+Engineer+%7C+NLP+Specialist+%7C+AI+App+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=0F172A&center=true&multiline=true&width=650&height=80&lines=Hasib+Wajid;AI+Engineer+%7C+NLP+Specialist+%7C+Founder+at+AxthTech" alt="Typing SVG" />
   </a>
   <br/>
   <a href="https://www.linkedin.com/in/hasibwajid">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:haseebwajidpersonal@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-1E293B?style=flat&logo=gmail&logoColor=white" />
   </a>
   <br/>
   <a href="https://github.com/hasibwajid">
-    <img src="https://github-stats-alpha.vercel.app/api?username=hasibwajid&cc=1e1e1e&tc=8A2BE2&ic=ffffff&bc=000000" />
+    <img src="https://github-stats-alpha.vercel.app/api?username=hasibwajid&cc=FFFFFF&tc=0F172A&ic=2563EB&bc=F8FAFC" />
   </a>
 </p>
 
 ---
 
-## 🌟 About Me
+## 👤 About Me
 
-🎓 **CS Graduate** • **AI Engineer** focused on **GenAI, NLP, and Automation**  
-🚀 Building production-grade tools with **LLMs, RAG Systems, and Agentic AI**  
-📱 Skilled in **React Native** + **MERN stack** for intelligent, scalable apps  
-🧠 Passionate about turning cutting-edge research into real-world solutions
+**CS Graduate | AI Engineer | Founder, AxthTech**  
+Focused on building real-world, production-grade AI systems with modern stacks.
 
----
-
-## 🛠️ Tech Arsenal
-
-### 🧠 AI/ML & GenAI  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FBB040?style=flat&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-FF6C37?style=flat)
-![phidata](https://img.shields.io/badge/phidata-6DB33F?style=flat)
-![crewAI](https://img.shields.io/badge/crewAI-00599C?style=flat)
-
-### 🗃️ Data Infra & RAG  
-![Pinecone](https://img.shields.io/badge/Pinecone-430098?style=flat)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6C37?style=flat)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-### 🌐 Frontend & App Dev  
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![MERN Stack](https://img.shields.io/badge/MERN_Stack-3FA037?style=flat)
+- 🧠 GenAI, NLP, LLMs, Agents, RAG
+- 📱 React Native + MERN for fullstack AI-powered apps
+- 🧰 From prototypes to scalable SaaS
 
 ---
 
-## 💼 What I Build
+## 🧰 My Stack
 
-### 🧠 AI-Powered Applications  
-⚙️ Intelligent Mobile & Web Apps • LLM-Integrated Products • AI Tutors
+### 💡 AI/ML  
+![Python](https://img.shields.io/badge/Python-0F172A?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-2563EB?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-1E293B?style=flat&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-F9A03C?style=flat)
 
-### 🔍 RAG & Knowledge Systems  
-📚 Multi-source Retrieval • Pinecone/ChromaDB • Self-Improving Systems
+### 🧱 Infra & Databases  
+![Pinecone](https://img.shields.io/badge/Pinecone-0F172A?style=flat)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1E293B?style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-10AA50?style=flat)
 
-### 🤖 Agentic AI Automation  
-💼 crewAI / phidata • AI Workflows • Zapier / Make.com / n8n Orchestration
+### ⚛️ Frontend & Mobile  
+![React Native](https://img.shields.io/badge/React_Native-2563EB?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
 ---
 
-## 📈 GitHub Analytics
+## 🚀 What I Build
+
+- **Agentic systems** with crewAI/phidata for automated workflows  
+- **AI tutors** & custom assistants for edu/health/finance verticals  
+- **RAG pipelines** with Pinecone/Chroma/LLMs for knowledge tasks  
+- **Voice & chat interfaces** powered by ElevenLabs and Whisper
+
+---
+
+## 📊 GitHub Stats
+
 <details>
-<summary>📊 Deep Dive Stats</summary>
-<br>
-<!-- Add GitHub stats chart here -->
+<summary>Click to expand</summary>
+<br/>
+<!-- Insert GitHub stats/chart -->
 </details>
 
 ---
 
-### ⚡ Let’s Connect
-📫 [LinkedIn](https://www.linkedin.com/in/hasibwajid) | [Email](mailto:haseebwajidpersonal@gmail.com)
+## 📬 Contact Me
 
-> *“I merge deep tech with real-world execution – building AI systems that work.”*
+- [LinkedIn](https://www.linkedin.com/in/hasibwajid)  
+- [Email](mailto:haseebwajidpersonal@gmail.com)  
+
+> “I don’t just build AI features. I build **AI systems** that solve real problems.”
+
+---
