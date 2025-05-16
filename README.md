@@ -1,4 +1,4 @@
-# Haseeb Wajid
+# Hasib Wajid
 
 **AI Automation Engineer | NLP & Agentic Systems Architect | Workflow Specialist**
 
@@ -6,7 +6,7 @@
 
 ### 🚀 What I Do
 
-I architect AI-powered automation systems that **reduce business workload**, eliminate repetitive tasks, and enable smarter decision-making using LLMs, no-code tools, and agentic workflows.
+I architect AI-powered automation systems that **reduce business workload**, eliminate repetitive tasks, and enable smarter decision-making using LLMs, voice interfaces, and agentic workflows.
 
 ---
 
@@ -14,37 +14,38 @@ I architect AI-powered automation systems that **reduce business workload**, eli
 
 - **LLM-Based Automations** for cognitive and multi-step workflows  
 - **Agentic Systems** with LangChain, CrewAI, LangGraph, and function-calling  
-- **NLP & Custom GPTs** for industry-specific use cases and contextual logic  
-- **Voice AI Interfaces** (TTS/STT) with ElevenLabs, Whisper, and OpenAI  
-- **Business Workflow Automation** using `Make.com` and `n8n` for real-world integrations
+- **Voice AI Agents** powered by `Vapi.ai`, ElevenLabs, Whisper, and OpenAI  
+- **NLP & Custom GPTs** for industry-specific reasoning and contextual understanding  
+- **Business Workflow Automation** using `Make.com` and `n8n` for real-world tool integrations
 
-Whether it's automating sales follow-ups, support triaging, or internal task routing — I build systems that work autonomously.
+> From automating support and sales to building 24/7 intelligent agents—I'm focused on creating systems that think, act, and adapt.
 
 ---
 
-### ⚙️ Stack & Tools
+### ⚙️ Tech Stack & Tools
 
-| AI & Agents | Automations | Backend & Dev | Voice AI |
-|-------------|--------------|---------------|----------|
-| OpenAI, Claude, Gemini | **Make.com**, **n8n**, Zapier | Node.js, Python, FastAPI | ElevenLabs, Whisper |
-| LangChain, LangGraph, CrewAI | RAG Pipelines, Memory, Chaining | Firebase, MongoDB | Speech Interfaces |
+| AI & Agents | Automations | Voice AI | Backend & Infra |
+|-------------|--------------|----------|-----------------|
+| OpenAI, Claude, Gemini | **Make.com**, **n8n**, Zapier | **Vapi.ai**, ElevenLabs, Whisper | Node.js, FastAPI, Firebase |
+| LangChain, LangGraph, CrewAI | Autonomous Agent Workflows | Realtime LLM Voicebots | MongoDB, Supabase |
 
 ---
 
 ### 📌 Current Projects
 
-- Agentic systems that trigger Make.com or n8n flows via LLM decision logic  
-- Custom GPTs + autonomous agents that handle support, lead gen, and CRM workflows  
-- Modular automation blueprints for small teams scaling without hiring
+- End-to-end automation systems triggered via **LLM logic + n8n**  
+- **Voice AI Assistants** using Vapi.ai for sales, support, and tutoring agents  
+- Custom GPTs deployed with workflows that integrate into existing tools (e.g. Notion, Slack, CRMs)  
+- Dynamic pipelines that connect LangChain agents with **Make.com** scenarios for no-code extensibility
 
 ---
 
-### 🧰 Also Experienced In
+### 🧰 Also Skilled In
 
-While AI automation is my specialty, I also build:
+Though my core focus is AI automation, I also build:
 
-- **Mobile Apps** using React Native (Expo)  
-- **Full-Stack Web Apps** using Next.js, Tailwind, REST/GraphQL
+- **Mobile Apps** using React Native (Expo SDK 51)  
+- **Full-Stack Web Platforms** using Next.js, Tailwind, REST & GraphQL
 
 ---
 
@@ -56,4 +57,5 @@ While AI automation is my specialty, I also build:
 
 ---
 
-> "The future of work isn’t hiring more people—it’s building smarter systems. I help businesses deploy AI-driven automations that *think*, *act*, and *scale.*"
+> “I don't just code bots. I build intelligent, autonomous systems that make businesses faster, leaner, and scalable without headcount.”
+
