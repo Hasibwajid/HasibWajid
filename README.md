@@ -1,4 +1,4 @@
-# Hasib Wajid
+# Haseeb Wajid
 
 **AI Automation Engineer | NLP & Agentic Systems Architect | Workflow Specialist**
 
